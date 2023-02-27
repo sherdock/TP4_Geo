@@ -1,0 +1,8 @@
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/src/CMakeFiles/cgal_check_build_system.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/src/CMakeFiles/measures.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/src/CMakeFiles/ALL_CGAL_TARGETS.dir
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/build/src/CMakeFiles/genre.dir

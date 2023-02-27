@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/hajar/Pictures/ZZ3/ISIMA/Géométrie_algo/TP4/src/measures.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/boost/graph/graph_traits_Polyhedron_3.h
+-
+CGAL/IO/Polyhedron_iostream.h
+-
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+list
+-
+

@@ -1,0 +1,7 @@
+Writing this to a file.
+out[it->first] : 0
+out[it->first] : 5
+out[it->first] : 5
+out[it->first] : 5
+out[it->first] : 5
+out[it->first] : 0
