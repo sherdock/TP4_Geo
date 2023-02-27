@@ -551,11 +551,11 @@ int main(int argc, char *argv[])
 		return 1;
 	}
 
-	// auto mapPerim = computePerimMap(mesh);
+	auto mapPerim = computePerimMap(mesh);
 
-	auto mapArea = computeAreaMap(mesh);
+	// auto mapArea = computeAreaMap(mesh);
 
-	normalizeMap(mapArea);
+	normalizeMap(mapPerim);
 
 	// writeOFFfromValueMap(mesh, mapPerim, argc >= 3 ? argv[2] : "result.off");
 
@@ -567,7 +567,7 @@ int main(int argc, char *argv[])
 
 	// auto testing = vecteur_intervalles(mapPerim, 10.0);
 
-	auto map_test_3 = complexThreshold(mesh, mapArea, NBR_CLASSES);
+	auto map_test_3 = complexThreshold(mesh, mapPerim, NBR_CLASSES);
 	writeOFFfromValueMap(mesh, map_test_3, argc >= 3 ? argv[2] : "question3.off", NBR_CLASSES);
 
 	// // std::cout << "Size de la map 3 avant segmentationParCC : " << map_test_3.size() << std::endl;
